@@ -26,27 +26,37 @@ abm_retrofit_adoption/
 To set up the environment for this project, follow these steps:
 
 ### 1. Clone the Repository
+```
 git clone https://github.com/yourusername/yourproject.git
 cd yourproject
+```
 
 ### 2. Set Up the Environment
 You can set up the environment using Conda or Pip.
 
 #### Option 1: Using Conda
 Create the environment using the environment.yml file:
-```conda env create -f environment.yml```
+```
+conda env create -f environment.yml
+```
 
 Activate the environment:
-```conda activate my_environment```
+```
+conda activate my_environment
+```
 
 #### Option 2: Using Pip
 If you're using Pip, install the dependencies from requirements.txt:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### 3. Verify the Setup
 Ensure all dependencies are installed correctly by running:
-```python --version
-pip list ```
+```
+python --version
+pip list
+```
 
 ## How to Run the Project
 
