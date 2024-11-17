@@ -8,6 +8,7 @@ This project implements an agent-based model (ABM) for retrofit adoption analysi
 - Organized input and output data management.
 
 ## Project Structure
+```
 abm_retrofit_adoption/
 ├── data/                 # Input data (Excel files, etc.)
 ├── src/                  # Source code (e.g., model.py, sensitivity.py)
@@ -18,7 +19,7 @@ abm_retrofit_adoption/
 ├── README.md             # Project description and instructions
 ├── config.py             # Centralized paths/configuration
 └── requirements.txt      # Pip dependencies (optional)
-
+```
 
 ## Setup Instructions
 
@@ -73,10 +74,16 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## **Reference**
+
+If you use this code or find it helpful, please cite the following article:
+
+> Your Name, _"Title of Your Article"_, Journal Name, Volume(Issue), Pages, Year. DOI: [10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)
+
 ## Contact
 For questions or feedback, please contact:
 
-Your Name: ardak.akhatova@gmail.com
+Email: ardak.akhatova@gmail.com
 GitHub: @ardakakh
 
 
